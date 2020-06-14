@@ -1,0 +1,3 @@
+[submodule "mbc-hotel-react"]
+	path = mbc-hotel-react
+	url = https://github.com/carlosponton/mbc-hotel-react.git
